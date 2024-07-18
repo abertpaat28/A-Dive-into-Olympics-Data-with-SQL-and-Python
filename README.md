@@ -1,7 +1,8 @@
 ---
 
 I leveraged an Olympics [Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) from Kaggle website and then enriched it with country details from a MariaDB SQL database. I explored the data to uncover interesting insights and create visualizations. You may view the python [code](https://github.com/abertpaat28/A-Dive-into-Olympics-Data-with-SQL-and-Python/blob/main/python%20notebook.ipynb) here. 🏆
-<img src="https://github.com/user-attachments/assets/c0c097ea-af21-406d-b119-483b51cca7ed" align="center" width="800" height="500" >
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c0c097ea-af21-406d-b119-483b51cca7ed" align="center" width="700" height="450" >
 
 ---
 **Here’s an overview of the tasks I performed:**  
@@ -12,7 +13,7 @@ I leveraged an Olympics [Dataset](https://www.kaggle.com/datasets/heesoo37/120-y
 ---
 ## ⚙️ Python Functions
 `info()` to inspect the data types and the number of non-null  
-`isna()` and `.sum()` to easily inspect the number of missing values per column  
+`isna()` and `sum()` to easily inspect the number of missing values per column  
 `value_counts()` inspect the unique items by frequency  
 `to_frame()` to convert a pandas Series into a DataFrame  
 `str.split()` to split a string into a list of substrings based on the specified delimiter  
@@ -37,6 +38,8 @@ I leveraged an Olympics [Dataset](https://www.kaggle.com/datasets/heesoo37/120-y
 
 ---
 ## 💹 Some Visualizations Derived from the Project
-![DataLab plot](https://github.com/user-attachments/assets/6dd3737d-cbd1-4099-8ee3-935a0b546bf7)
-![DataLab plot 33](https://github.com/user-attachments/assets/28fe77d6-0889-4b85-af7c-278ebc2cc283)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6dd3737d-cbd1-4099-8ee3-935a0b546bf7" align="center" width="700" height="450" >
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/28fe77d6-0889-4b85-af7c-278ebc2cc283" align="center" width="700" height="450" >
