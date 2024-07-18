@@ -37,3 +37,8 @@ I explored the data to uncover interesting insights and create visualizations. Y
 `JOIN` to combine rows from two or more tables based on a related column  
 `ON` is used with the JOIN keyword. It specifies the condition for joining the tables based on a common column  
 
+---
+## 💹 Some Visualizations Derived from the Project
+![DataLab plot](https://github.com/user-attachments/assets/6dd3737d-cbd1-4099-8ee3-935a0b546bf7)
+![DataLab plot 33](https://github.com/user-attachments/assets/28fe77d6-0889-4b85-af7c-278ebc2cc283)
+
