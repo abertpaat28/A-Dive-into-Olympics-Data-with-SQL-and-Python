@@ -1,7 +1,6 @@
 ---
 
-I leveraged an Olympics [Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) from Kaggle website and then enriched it with country details from a MariaDB SQL database.  
-I explored the data to uncover interesting insights and create visualizations. You may view the python [code](https://github.com/abertpaat28/A-Dive-into-Olympics-Data-with-SQL-and-Python/blob/main/python%20notebook.ipynb) here. 🏆
+I leveraged an Olympics [Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) from Kaggle website and then enriched it with country details from a MariaDB SQL database. I explored the data to uncover interesting insights and create visualizations. You may view the python [code](https://github.com/abertpaat28/A-Dive-into-Olympics-Data-with-SQL-and-Python/blob/main/python%20notebook.ipynb) here. 🏆
 
 ![image](https://github.com/user-attachments/assets/c0c097ea-af21-406d-b119-483b51cca7ed)
 
