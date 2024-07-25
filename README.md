@@ -17,7 +17,7 @@ I leveraged an Olympics [Dataset](https://www.kaggle.com/datasets/heesoo37/120-y
 - Learn how to use Plotly to easily create interactive visualizations  
 
 ---
-## ⚙️ Python Functions
+## ⚙️ Python functions
 `info()` to inspect the data types and the number of non-null  
 `isna()` and `sum()` to easily inspect the number of missing values per column  
 `value_counts()` inspect the unique items by frequency  
@@ -43,7 +43,7 @@ I leveraged an Olympics [Dataset](https://www.kaggle.com/datasets/heesoo37/120-y
 `ON` is used with the JOIN keyword. It specifies the condition for joining the tables based on a common column  
 
 ---
-## 💹 Visualizations Derived from the Project
+## 💹 Visualizations derived from this simple project
 <p align="center">
 <img src="https://github.com/user-attachments/assets/6dd3737d-cbd1-4099-8ee3-935a0b546bf7" align="center" width="700" height="450" >
 
